@@ -1,2 +1,2 @@
 # Hello-Word
-First repository (test)
+Este é somente um teste de ramificação para edições de repositório.
